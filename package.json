@@ -1,0 +1,13 @@
+{
+  "name": "word-filter",
+  "description": "A simple, crude, word filter app.",
+  "author": "Jonathan Sawyer <jmsawyer@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "nconf": "",
+    "line-reader": "",
+    "string": ""
+  },
+  "engine": "node >= 0.8.x"
+}
+
